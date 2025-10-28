@@ -162,3 +162,13 @@ Lenguaje: Python 3.10+
 
 IMÁGENES
 <img width="787" height="620" alt="image" src="https://github.com/user-attachments/assets/dc655dc3-9f2a-450e-bb1b-2e3b0c22b176" />
+![Imagen de WhatsApp 2025-10-28 a las 18 37 13_d5ff3a79](https://github.com/user-attachments/assets/e4dac721-d82b-4098-a5a1-7821dd2cf602)
+![Imagen de WhatsApp 2025-10-28 a las 18 37 19_29ad003e](https://github.com/user-attachments/assets/bad8df72-e316-480d-9024-3f042e696eca)
+![Imagen de WhatsApp 2025-10-28 a las 18 38 10_7f71f32c](https://github.com/user-attachments/assets/d2bdc2e2-e6f3-4575-be8b-c20b0863f19a)
+![Imagen de WhatsApp 2025-10-28 a las 18 39 59_842debd9](https://github.com/user-attachments/assets/781fe00d-fd61-4bf9-aabe-9e3d086ed308)
+![Imagen de WhatsApp 2025-10-28 a las 18 41 31_e6510264](https://github.com/user-attachments/assets/7fc067d5-156e-49bc-ae1c-f2d304e99cd0)
+
+
+
+
+
