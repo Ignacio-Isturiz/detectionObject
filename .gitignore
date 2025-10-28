@@ -1,28 +1,29 @@
-# Byte-compiled / optimized / DLL files
+# Python / ML
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environments
+*.pyc
+*.pyo
+*.pyd
 .venv/
-env/
 venv/
-
-# Distribution / packaging
-.build/
-dist/
-*.egg-info/
-
-# IDEs
-.vscode/
-.idea/
-
-# Environment files
-.env
-
-# OS files
+env/
+.ipynb_checkpoints/
+*.ipynb
 .DS_Store
 Thumbs.db
 
-# Python test cache
-.pytest_cache/
+# Datos y modelos (evita subir pesados)
+data/
+datasets/
+outputs/
+checkpoints/
+models/
+*.h5
+*.pt
+*.pth
+*.onnx
+*.pb
+
+# IDEs / OS
+.vscode/
+.idea/
+*.log
