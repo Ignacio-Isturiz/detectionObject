@@ -159,3 +159,6 @@ Frameworks: MediaPipe
 Modelo Base: EfficientDet Lite0 (TensorFlow Lite)
 
 Lenguaje: Python 3.10+
+
+IMÁGENES
+<img width="787" height="620" alt="image" src="https://github.com/user-attachments/assets/dc655dc3-9f2a-450e-bb1b-2e3b0c22b176" />
