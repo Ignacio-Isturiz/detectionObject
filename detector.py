@@ -14,7 +14,7 @@ MAX_RESULTS = 5
 ALERT_AREA_RATIO = 0.10    # alerta a partir del 10%
 # límites para sonido (en segundos)
 MAX_BEEP_INTERVAL = 1.0    # lejos → beep cada 1s
-MIN_BEEP_INTERVAL = 0.1    # muy cerca → beep cada 0.1s
+MIN_BEEP_INTERVAL = 0.1    # muy cerca → beep cada 0.1ss
 # ==============================================
 
 def beep():
